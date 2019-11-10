@@ -20,6 +20,7 @@ description: Centro Elaborazione Dati
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "home"
   About Me: "aboutme"
   Contatti: "contact"
   #Resources:
